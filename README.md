@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaTasiaM
 - 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning java programming.
+- 🌱 I’m currently learning front end web development.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me: natasia.madison@gmail.com
 
